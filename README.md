@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KunalBansall
+- 👋 Hi, I’m @KunalBansall.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning nodeJs and DSA . 
 - 😮‍💨 I love to code n find more easy solutions. 
